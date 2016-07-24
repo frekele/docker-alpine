@@ -1,0 +1,1 @@
+docker run --rm --name alpine frekele/alpine
