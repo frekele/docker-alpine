@@ -1,4 +1,4 @@
-# Alpine(s6-overlay) Docker Image - Extends Official Alpine
+# Alpine (s6-overlay) Docker Image - Extends Official Alpine
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/frekele/alpine.svg)](https://hub.docker.com/r/frekele/alpine/)
 [![Docker Stars](https://img.shields.io/docker/stars/frekele/alpine.svg)](https://hub.docker.com/r/frekele/alpine/)
