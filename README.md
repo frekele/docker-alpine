@@ -1,12 +1,18 @@
 # Alpine(s6-overlay) Docker Image - Extends Official Alpine
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/frekele/alpine.svg)](https://hub.docker.com/r/frekele/alpine/)
+[![Docker Stars](https://img.shields.io/docker/stars/frekele/alpine.svg)](https://hub.docker.com/r/frekele/alpine/)
+[![GitHub issues](https://img.shields.io/github/issues/frekele/docker-alpine.svg)](https://github.com/frekele/docker-alpine/issues)
+[![GitHub forks](https://img.shields.io/github/forks/frekele/docker-alpine.svg)](https://github.com/frekele/docker-alpine/network)
+[![GitHub stars](https://img.shields.io/github/stars/frekele/docker-alpine.svg)](https://github.com/frekele/docker-alpine/stargazers)
+
 Repository: https://hub.docker.com/r/frekele/alpine
 
 #### Branches:
-| Branch           | From          | Usage        |
-| ---------------- | ------------- | ------------ |
-| master (latest)  | alpine:3.4    | Development  |
-| stable           | alpine:3.4    | Production   |
+| Branch           | From          | Usage        | Tag Names       |
+| ---------------- | ------------- | ------------ | --------------- |
+| stable           | alpine:3.4    | Production   | stable          |
+| master (latest)  | alpine:3.4    | Development  | latest          |
 
 # Dockerfile extends From:
 - https://github.com/gliderlabs/docker-alpine
