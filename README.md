@@ -9,10 +9,10 @@
 Repository: https://hub.docker.com/r/frekele/alpine
 
 #### Branches:
-| Branch           | From          | Usage        |
-| ---------------- | ------------- | ------------ |
-| stable           | alpine:3.4    | Production   |
-| master (latest)  | alpine:3.4    | Development  |
+| Branch           | From          | Usage        | Tag Names       |
+| ---------------- | ------------- | ------------ | --------------- |
+| stable           | alpine:3.4    | Production   | stable          |
+| master (latest)  | alpine:3.4    | Development  | latest          |
 
 # Dockerfile extends From:
 - https://github.com/gliderlabs/docker-alpine
