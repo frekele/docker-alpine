@@ -1,4 +1,4 @@
-# Alpine Docker Image - Extends Official Alpine
+# Alpine(s6-overlay) Docker Image - Extends Official Alpine
 
 Repository: https://hub.docker.com/r/frekele/alpine
 
