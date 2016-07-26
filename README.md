@@ -7,9 +7,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/frekele/docker-alpine.svg)](https://github.com/frekele/docker-alpine/stargazers)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://frekele.github.io/docker-alpine/)
 
-Site: https://frekele.github.io/docker-alpine/
+[![Alpine Image][AlpineImage]][AlpineWebsite]
 
-Repository: https://hub.docker.com/r/frekele/alpine
+| [Website]  | [GitHub]  | [DockerHub]  |
+
 
 #### Branches:
 | Branch           | From          | Usage        | Tag Names       |
@@ -27,6 +28,8 @@ Repository: https://hub.docker.com/r/frekele/alpine
 - https://github.com/smebberson/docker-alpine
 
 ### License:
+See [ALPINE LICENSE]
+
 frekele/docker-alpine is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
@@ -50,3 +53,11 @@ frekele/docker-alpine is **licensed** under the **[MIT License]**. The terms of 
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+[AlpineImage]: https://raw.githubusercontent.com/frekele/docker-alpine/master/alpine-logo.png
+[AlpineWebsite]: https://www.alpinelinux.org/
+[Website]: https://frekele.github.io/docker-alpine
+[GitHub]: https://github.com/frekele/docker-alpine
+[DockerHub]: https://hub.docker.com/r/frekele/alpine
+[ALPINE LICENSE]: https://www.alpinelinux.org/about/
+[MIT LICENSE]: https://github.com/frekele/docker-alpine/blob/master/LICENSE
