@@ -54,7 +54,7 @@ frekele/docker-alpine is **licensed** under the **[MIT License]**. The terms of 
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-[AlpineImage]: https://raw.githubusercontent.com/frekele/docker-alpine/master/alpine-logo.png
+[AlpineImage]: https://raw.githubusercontent.com/frekele/docker-alpine/master/alpine-logo.png?logo=logo
 [AlpineWebsite]: https://www.alpinelinux.org/
 [Website]: https://frekele.github.io/docker-alpine
 [GitHub]: https://github.com/frekele/docker-alpine
