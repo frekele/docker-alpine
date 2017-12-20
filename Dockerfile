@@ -2,7 +2,7 @@ FROM alpine:3.6
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV S6_OVERLAY_VERSION=v1.21.2.1
+ENV S6_OVERLAY_VERSION=v1.21.2.2
 
 RUN apk add --update --no-cache \
        bind-tools \
