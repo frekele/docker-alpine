@@ -16,8 +16,8 @@
 
 | Branch           | From          | Usage        | Tag Names       |
 | ---------------- | ------------- | ------------ | --------------- |
-| stable           | alpine:3.6    | Production   | stable          |
-| master (latest)  | alpine:3.6    | Development  | latest          |
+| stable           | alpine:3.7    | Production   | stable          |
+| master (latest)  | alpine:3.7    | Development  | latest          |
 
 # Dockerfile extends From:
 - https://github.com/gliderlabs/docker-alpine
