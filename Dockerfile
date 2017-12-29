@@ -14,6 +14,7 @@ RUN apk add --update --no-cache \
        wget \
        unzip \
        nano \
+       procps \
        && rm -rf /var/cache/apk/*
 
 RUN wget https://keybase.io/justcontainers/key.asc --no-check-certificate -O /tmp/s6-overlay-key.asc \
