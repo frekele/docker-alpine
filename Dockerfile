@@ -13,6 +13,7 @@ RUN apk add --update --no-cache \
        curl \
        wget \
        unzip \
+       patch \
        nano \
        procps \
        lsof \
