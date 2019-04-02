@@ -16,8 +16,8 @@
 
 | Branch           | From          | Usage        | Tag Names       |
 | ---------------- | ------------- | ------------ | --------------- |
-| stable           | alpine:3.7    | Production   | stable          |
-| master (latest)  | alpine:3.7    | Development  | latest          |
+| stable           | alpine:3.9    | Production   | stable          |
+| master (latest)  | alpine:3.9    | Development  | latest          |
 
 # Dockerfile extends From:
 - https://github.com/gliderlabs/docker-alpine
@@ -35,7 +35,7 @@ frekele/docker-alpine is **licensed** under the **[MIT License]**. The terms of 
 
     MIT License
 
-    Copyright (c) 2016-2018 @frekele<Leandro Kersting de Freitas>
+    Copyright (c) 2016-2019 @frekele<Leandro Kersting de Freitas>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
