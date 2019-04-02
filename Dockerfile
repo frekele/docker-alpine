@@ -1,6 +1,6 @@
-FROM alpine:3.7
+FROM alpine:3.9
 
-MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
+MAINTAINER frekele <leandro@frekele.org>
 
 ENV S6_OVERLAY_VERSION=v1.22.1.0
 
