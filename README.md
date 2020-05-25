@@ -62,3 +62,4 @@ frekele/docker-alpine is **licensed** under the **[MIT License]**. The terms of 
 [DockerHub]: https://hub.docker.com/r/frekele/alpine
 [ALPINE LICENSE]: https://www.alpinelinux.org/about/
 [MIT LICENSE]: https://github.com/frekele/docker-alpine/blob/master/LICENSE
+
